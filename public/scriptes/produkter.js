@@ -21,7 +21,7 @@ console.log("kør hentprodukter")
                 
                 <div class="col-lg-4 col-sm-6 portfolio-item">
                     <div class="card">
-                     <div id="img" src="img/cd_afspillere/creek_classic_cd.jpg" ></div>
+                     <div id="img"><img src="img/cd_afspillere/creek_classic_cd.jpg"> </div>
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a class="prudukt_title" href="#">cd anspilder</a>
